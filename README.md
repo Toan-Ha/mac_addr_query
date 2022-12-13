@@ -1,4 +1,4 @@
-#### Dockerized Python application to query https://macaddress.io/ company name with mac address
+#### Dockerized Python application to query https://macaddress.io/ for company name with mac address
 
 Python Implementation:
 - Pytest execute test class test_mac_addr.py
